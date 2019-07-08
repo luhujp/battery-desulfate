@@ -1,0 +1,31 @@
+Ultiboard Information Export File
+
+Design Name  : Desunfat - Bill of materials
+Report Date  : 8 July 2019
+Report Time  : 10:05
+--------------------------------------------------------------------------------
+
+VALUE        #    REFDES        FOOTPRINT       
+
+0.1uF        1    C6            KERKO6X5R5      
+1N4007       4    D1,D2,D3,D4   DIO9X4R10P      
+1N4149       1    D9            DIOMINIR7_5P    
+1kOhm        1    R2            RES900-300X200  
+2N1132A      1    Q1            TRA_TO92_1X     
+4.7kOhm      1    R4            RES900-300X200  
+10Ohm        4    R5,R6,R7,R8   RES900-300X200  
+30kOhm       2    R1,R9         RES900-300X200  
+100nF        1    C2            KERKO6X5R5      
+200kOhm      1    R3            TRIM-D10V       
+470pF        1    C1            KERKO6X5R5      
+470uF        2    C5,C7         CAPPR250-630X1120
+470uF        2    C3,C4         CAPPR1000-2200X5000
+555_VIRTUAL  1    A1            DIP8300         
+HDR1X3       2    J1,J4         MKDS1_3R3_8     
+HDR1X4       1    J2            BXXXC7000       
+HDR1X5       1    J3            HDR1X5          
+JUMPER       6    J5,J6,J7,J8,J9,J10 JUMPER          
+LED_red      1    LED1          LED9R2_5V       
+LM7812CT     1    U2            LM78XXV         
+SUP60030E-GE3 3    Q2,Q3,Q4      TO254P465X1027X1930-3P
+ZPD15        1    D6            DIOMINIR7_5P    

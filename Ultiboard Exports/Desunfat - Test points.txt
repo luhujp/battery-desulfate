@@ -1,0 +1,9 @@
+Ultiboard Information Export File
+
+Design Name  : Desunfat - Test points
+Report Date  : 8 July 2019
+Report Time  : 10:05
+--------------------------------------------------------------------------------
+
+REFDES                      Coordinate[mm]    Diameter[mm] Board side   Rotation   Type           
+

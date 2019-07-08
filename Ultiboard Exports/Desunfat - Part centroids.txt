@@ -1,0 +1,48 @@
+Ultiboard Information Export File
+
+Design Name  : Desunfat - Part centroids
+Report Date  : 8 July 2019
+Report Time  : 10:05
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        X_CENTRE[mm] Y_CENTRE[mm]    ROT SIDE     TYPE     FOOTPRINT        DEVICE        DONOTANNOTATE        LIBRARYTREEID        PACKAGE        TXT       
+
+A1            555_VIRTUAL     55.626000    35.306000      0 TOP      THD      DIP8300          MIXED_VIRTUAL                                           IPC-2221A/2222\DIP-8           
+C1            470pF           44.196000    32.512000    270 TOP      THD      KERKO6X5R5       CAPACITOR                          103                  Generic\CAP3             
+C2            100nF           59.436000    47.752000     90 TOP      THD      KERKO6X5R5       CAPACITOR                          103                  Generic\CAP3             
+C3            470uF           36.068000    12.462000    270 TOP      THD      CAPPR1000-2200X5000 CAPACITOR                          168                  IPC-2221A/2222\CAPPR1000-2200X5000           
+C4            470uF           62.484000    12.462000    270 TOP      THD      CAPPR1000-2200X5000 CAPACITOR                          168                  IPC-2221A/2222\CAPPR1000-2200X5000           
+C5            470uF           38.608000    28.682000     90 TOP      THD      CAPPR250-630X1120 CAPACITOR                          168                  IPC-2221A/2222\CAPPR250-630X1120 +         
+C6            0.1uF           25.400000    23.876000    180 TOP      THD      KERKO6X5R5       CAPACITOR                          103                  Generic\CAP3             
+C7            470uF           70.846000    25.400000      0 TOP      THD      CAPPR250-630X1120 CAPACITOR                          168                  IPC-2221A/2222\CAPPR250-630X1120 +         
+D1            1N4007          14.224000     7.810000    270 TOP      THD      DIO9X4R10P       DIODE                              112                  Ultiboard\DIO9X4R10P           
+D2            1N4007          18.288000     7.810000    270 TOP      THD      DIO9X4R10P       DIODE                              112                  Ultiboard\DIO9X4R10P           
+D3            1N4007          14.224000    25.590000    270 TOP      THD      DIO9X4R10P       DIODE                              112                  Ultiboard\DIO9X4R10P           
+D4            1N4007          18.288000    25.590000    270 TOP      THD      DIO9X4R10P       DIODE                              112                  Ultiboard\DIO9X4R10P           
+D6            ZPD15           32.512000    29.718000     90 TOP      THD      DIOMINIR7_5P     ZENER                              112                  Ultiboard\DIOMINIR7_5P           
+D9            1N4149          68.072000    37.338000     90 TOP      THD      DIOMINIR7_5P     DIODE                              112                  Ultiboard\DIOMINIR7_5P           
+J1            HDR1X3           8.890000    45.212000      0 TOP      THD      MKDS1_3R3_8      HEADERS_TEST                       90                   Ultiboard\MKDS1_3R3_8           
+J2            HDR1X4           7.112000    22.045084    270 TOP      THD      BXXXC7000        HEADERS_TEST                       108                  Ultiboard\BXXXC7000           
+J3            HDR1X5          80.772000    35.052000    270 TOP      THD      HDR1X5           HEADERS_TEST                       82                   Generic\HDR1X5           
+J4            HDR1X3          78.740000    50.038000     90 TOP      THD      MKDS1_3R3_8      HEADERS_TEST                       90                   Ultiboard\MKDS1_3R3_8           
+J5            JUMPER                                      0 TOP      THD      JUMPER                         1                                                                  
+J6            JUMPER                                      0 TOP      THD      JUMPER                         1                                                                  
+J7            JUMPER                                     90 TOP      THD      JUMPER                         1                                                                  
+J8            JUMPER                                    270 TOP      THD      JUMPER                         1                                                                  
+J9            JUMPER                                    270 TOP      THD      JUMPER                         1                                                                  
+J10           JUMPER                                     90 TOP      THD      JUMPER                         1                                                                  
+LED1          LED_red         78.740000    16.002000     90 TOP      THD      LED9R2_5V        LED                                110                  Ultiboard\LED9R2_5V           
+Q1            2N1132A         67.056000    45.212000    270 TOP      THD      TRA_TO92_1X      BJT_PNP                            167                  Ultiboard\TRA_TO92_1X           
+Q2            SUP60030E-GE3    54.863999    55.588898     90 TOP      THD      TO254P465X1027X1930-3P POWER_MOS_N                                             Vishay\TO-220-3(TO-220AB SUP)           
+Q3            SUP60030E-GE3    33.019999    55.588898     90 TOP      THD      TO254P465X1027X1930-3P POWER_MOS_N                                             Vishay\TO-220-3(TO-220AB SUP)           
+Q4            SUP60030E-GE3    12.673100    55.588898     90 TOP      THD      TO254P465X1027X1930-3P POWER_MOS_N                                             Vishay\TO-220-3(TO-220AB SUP)           
+R1            30kOhm          47.172000    42.169000      0 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R2            1kOhm           49.281000    15.312000    270 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R3            200kOhm         34.544000    41.148000     90 TOP      THD      TRIM-D10V        VARIABLE_RESISTOR                      153                  Ultiboard\TRIM-D10V           
+R4            4.7kOhm         72.131000    39.552000     90 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R5            10Ohm           60.016000    27.935000    180 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R6            10Ohm           14.660000    52.837000      0 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R7            10Ohm           47.824000    52.827000    180 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R8            10Ohm           34.980000    52.837000      0 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+R9            30kOhm          78.735000     6.532000     90 TOP      THD      RES900-300X200   RESISTOR                           168                  IPC-2221A/2222\RES900-300X200           
+U2            LM7812CT        49.276000    25.590000      0 TOP      THD      LM78XXV          VOLTAGE_REGULATOR                      106                  Ultiboard\LM78XXV           

@@ -1,0 +1,64 @@
+Ultiboard Information Export File
+
+Design Name  : Desunfat - Board statistics
+Report Date  : 8 July 2019
+Report Time  : 10:05
+--------------------------------------------------------------------------------
+
+                                                                                                     
+
+STATISTICS                                                                                           
+Parts :                                33                                                            
+Vias :                                  0                                                            
+Pins :                                 85                                                            
+Test pins :                             0                                                            
+Jumpers :                               6                                                            
+Nets :                                 18                                                            
+Pins in net :                          83                                                            
+Connections :                          65                                                            
+Unrouted connections :                 12                                                            
+Router completion rate :               81 %                                                          
+                                                                                                     
+                                                                                                     
+BOARD OUTLINE                                                                                        
+Length (x) :                    92.703185 mm                                                         
+Width  (y) :                    76.649084 mm                                                         
+                                                                                                     
+                                                                                                     
+BOARD LAYERS                                                                                         
+Copper Top                                                                                           
+Copper Bottom                                                                                        
+Keep-in/keep-out                                                                                     
+Board Outline                                                                                        
+Silkscreen Top                                                                                       
+Silkscreen Bottom                                                                                    
+3D-Info Top                                                                                          
+3D-Info Bottom                                                                                       
+Paste Mask Top                                                                                       
+Paste Mask Bottom                                                                                    
+Solder Mask Top                                                                                      
+Solder Mask Bottom                                                                                   
+Glue Mask Top                                                                                        
+Glue Mask Bottom                                                                                     
+Ratsnest                                                                                             
+Design Rule Check                                                                                    
+Comment                                                                                              
+Mechanical 1                                                                                         
+Mechanical 2                                                                                         
+Pad edit layer                                                                                       
+                                                                                                     
+                                                                                                     
+ERROR MESSAGES                                                                                       
+Design rule error                  :      Net "0" close to net "15".                                 
+Design rule error                  :      Net "2" close to net "4".                                  
+Design rule error                  :      Net "18" is connected to net "16".                         
+Design rule error                  :      Net "18" is connected to net "16".                         
+Design rule error                  :      Net "18" is connected to net "16".                         
+Design rule error                  :      Net "18" is connected to net "16".                         
+Design rule error                  :      Net "18" is connected to net "16".                         
+Design rule error                  :      Net "18" is connected to net "16".                         
+Design rule error                  :      The object "Part: Name(C3); Value(470uF); Footprint(CAPPR1000-2200X5000)" is within keep-out area.         
+Design rule error                  :      The object "Part: Name(R2); Value(1kOhm); Footprint(RES900-300X200)" is within keep-out area.         
+Design rule error                  :      The object "Part: Name(J2); Value(HDR1X4); Footprint(BXXXC7000)" is within keep-out area.         
+                                                                                                     
+                                                                                                     

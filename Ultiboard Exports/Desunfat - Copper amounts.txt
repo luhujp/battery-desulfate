@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : Desunfat - Copper amounts
+Report Date  : 8 July 2019
+Report Time  : 10:05
+--------------------------------------------------------------------------------
+
+Layer                  Area[mm*mm]      Length[mm]      
+
+Copper Top             0.000000         0.000000        
+Copper Bottom          1631.648954      875.308439      

@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : Desunfat - Layer stack-up
+Report Date  : 8 July 2019
+Report Time  : 10:05
+--------------------------------------------------------------------------------
+
+Copper Top        Copper Bottom       
+
+Unassigned        Unassigned          
+T                 T                   
