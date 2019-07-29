@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : battery-desulfate - Layer stack-up
+Report Date  : 8 July 2019
+Report Time  : 15:33
+--------------------------------------------------------------------------------
+
+Copper Top        Copper Bottom       
+
+Unassigned        Unassigned          
+T                 T                   
